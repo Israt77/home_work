@@ -1,0 +1,58 @@
+h1{
+	color: green;
+	background-color: blue;
+}
+p{
+	color: blue;
+}
+.head5{
+	color: red;
+}
+.red{
+	color: red;
+}
+.green{
+	color: green;
+}
+#h1{
+	color: green;
+	background-color: skyblue;
+}
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+}
+.first_name,.last_name,.email,.password,{
+	width: 90%;
+	height: 25px;
+	padding: 10px;
+	font-size: 18px;
+}
+.message{
+	font-size: 18px;
+	padding: 10px;
+}
+table{
+	width: 100%;
+	border: 1px solid black;
+}
+th,td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+}
+.box1{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+.box2{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	/*margin: 50px; 
+	margin: 50px 20px; 
+	margin: 70px 50px 30px;*/
+	margin: 70px 50px 30px 10px;
+}
